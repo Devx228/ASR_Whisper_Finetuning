@@ -1,0 +1,24 @@
+# Python virtual environment
+wenv/
+/wenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and Cache directories
+transcribe_test/
+sanskrit_audio/
+audio_cache/
+*.wav
+
+# Experiment results and logs
+experiments/
+whisper_sanskrit_finetuned/
+
+# IDE and OS specific
+.vscode/
+.idea/
+*.DS_Store

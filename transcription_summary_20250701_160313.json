@@ -1,0 +1,177 @@
+{
+  "timestamp": "20250701_160313",
+  "total_files": 24,
+  "successful": 24,
+  "failed": 0,
+  "model_path": "./whisper_sanskrit_finetuned",
+  "results": [
+    {
+      "audio_file": "844424930589497-277-f.m4a",
+      "transcript": "तत्रसतारं समयं समो न्यसे तृरेखं ववति त्रयो हिमे लोकास्त्रयो हिमे लोकास्त्रयो हिमे वेदः",
+      "duration": 11.517125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589497-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589497-277-f.m4a",
+      "transcript": "तत्रसतारं समयं समो न्यसे तृरेखं ववति त्रयो हिमे लोकास्त्रयो हिमे लोकास्त्रयो हिमे वेदः",
+      "duration": 11.517125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589497-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589502-277-f.m4a",
+      "transcript": "Trinney ॐ॑ एगं चत्वारी शार्त्रयस्त्रीन् शात् देवसुराः सं यता आसं",
+      "duration": 11.8421875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589502-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589502-277-f.m4a",
+      "transcript": "Trinney ॐ॑ एगं चत्वारी शार्त्रयस्त्रीन् शात् देवसुराः सं यता आसं",
+      "duration": 11.8421875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589502-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589515-277-f.m4a",
+      "transcript": "पस्य त्रवेषाठं वेङ्गल आविह्या नूत्महा विद्यालै कोलकत्त वैद्याकी यामहा विद्यालै च आविदनपत्रं दतवान्",
+      "duration": 16.161125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589515-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589515-277-f.m4a",
+      "transcript": "पस्य त्रवेषाठं वेङ्गल आविह्या नूत्महा विद्यालै कोलकत्त वैद्याकी यामहा विद्यालै च आविदनपत्रं दतवान्",
+      "duration": 16.161125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589515-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589530-277-f.m4a",
+      "transcript": "तदवार्तं श्रुत्वा कमण्डिङ्धिकारी ज्वन्डलहार्स्रितात्रा आगथ्य पण्धनं आदिष्ट्यवन्",
+      "duration": 14.69825,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589530-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589530-277-f.m4a",
+      "transcript": "तदवार्तं श्रुत्वा कमण्डिङ्धिकारी ज्वन्डलहार्स्रितात्रा आगथ्य पण्धनं आदिष्ट्यवन्",
+      "duration": 14.69825,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589530-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589533-277-f.m4a",
+      "transcript": "Vidhu से विष्वा वुवनानि तस्त्यताप्र व्रविषि वरुणाय वेदाः",
+      "duration": 10.3096875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589533-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589533-277-f.m4a",
+      "transcript": "Vidhu से विष्वा वुवनानि तस्त्यताप्र व्रविषि वरुणाय वेदाः",
+      "duration": 10.3096875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589533-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589584-277-f.m4a",
+      "transcript": "दित्ये वागे दित्या दृष्ट पारः स्तित्वा सुक्ष्मे श्रिगय वृडवीधि पश्यति निर्णयति च",
+      "duration": 14.3499375,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589584-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930589584-277-f.m4a",
+      "transcript": "दित्ये वागे दित्या दृष्ट पारः स्तित्वा सुक्ष्मे श्रिगय वृडवीधि पश्यति निर्णयति च",
+      "duration": 14.3499375,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930589584-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930613356-1177-f.m4a",
+      "transcript": "आधे हिति श्रीभ्रंव वैवर्कपुराण गणे शट्ट्रिञ्षोऽण तर्गतं श्रीपर्षूरामुप्रतं काली इस्तोत्रं सम्पूणम् ॥",
+      "duration": 15.209125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930613356-1177-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930613356-1177-f.m4a",
+      "transcript": "आधे हिति श्रीभ्रंव वैवर्कपुराण गणे शट्ट्रिञ्षोऽण तर्गतं श्रीपर्षूरामुप्रतं काली इस्तोत्रं सम्पूणम् ॥",
+      "duration": 15.209125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930613356-1177-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930613382-1177-f.m4a",
+      "transcript": "तेन उच्यमानं सर्वं मित्राणी लिखित्वा अस्था पयन इति श्रूयते",
+      "duration": 7.1285625,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930613382-1177-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930613382-1177-f.m4a",
+      "transcript": "तेन उच्यमानं सर्वं मित्राणी लिखित्वा अस्था पयन इति श्रूयते",
+      "duration": 7.1285625,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930613382-1177-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623631-277-f.m4a",
+      "transcript": "औं शां शां सां हृं क्लीं गरिष्टाय नमः",
+      "duration": 6.3623125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623631-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623631-277-f.m4a",
+      "transcript": "औं शां शां सां हृं क्लीं गरिष्टाय नमः",
+      "duration": 6.3623125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623631-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623659-277-f.m4a",
+      "transcript": "सर्टदग्वाद्वरं चानायनी च ततां वागस्य पुस्ना स्तता दाषनं खिक पातयचे",
+      "duration": 12.8406875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623659-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623659-277-f.m4a",
+      "transcript": "सर्टदग्वाद्वरं चानायनी च ततां वागस्य पुस्ना स्तता दाषनं खिक पातयचे",
+      "duration": 12.8406875,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623659-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623661-277-f.m4a",
+      "transcript": "पारमं इति च नीरज्तिश्यति व्रमहणि अक्षरि उपपत्रतारं विषषणं",
+      "duration": 8.1038125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623661-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623661-277-f.m4a",
+      "transcript": "पारमं इति च नीरज्तिश्यति व्रमहणि अक्षरि उपपत्रतारं विषषणं",
+      "duration": 8.1038125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623661-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623672-277-f.m4a",
+      "transcript": "यातः सूर्यसप्रकाषि अन्यानि नाक्ष्यत्रणि दा दृश्यरिं यभ एवा",
+      "duration": 7.94125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623672-277-f_transcript.txt",
+      "status": "success"
+    },
+    {
+      "audio_file": "844424930623672-277-f.m4a",
+      "transcript": "यातः सूर्यसप्रकाषि अन्यानि नाक्ष्यत्रणि दा दृश्यरिं यभ एवा",
+      "duration": 7.94125,
+      "output_file": "C:\\Users\\devan\\OneDrive\\Desktop\\Whisper_ASR\\transcribe_test\\844424930623672-277-f_transcript.txt",
+      "status": "success"
+    }
+  ]
+}
